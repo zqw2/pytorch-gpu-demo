@@ -1,0 +1,6 @@
+/good/
+/more/
+.idea
+.iml
+__pycache__
+weights/*.pkl
