@@ -15,3 +15,9 @@ CPU版本
 =================
 pip install -r requirements.txt
 pip install torch==1.2.0+cpu torchvision==0.4.0+cpu --default-timeout=1000000 -f https://download.pytorch.org/whl/torch_stable.html
+
+=================
+运行
+=================
+运行python index.py
+运行python test-gpu.py
